@@ -9,10 +9,10 @@ This repository contains my code and notes for the C programming virtual classes
 - University: Bangladesh University of Engineering and Technology (BUET)
 - Course: C Programming
 - Batch: 2022
-- Instructor: Sheikh Azizul Hakim
-- Course Website: https://hscict.org/
-- System Co-ordinator: Mohammad Sajid Abdullah
-- Courtesy: eSystem Research and Development Lab, Dept. of CSE,BUET.
+- Instructor: [Sheikh Azizul Hakim](https://skhakim.github.io/about/)
+- Course Website: [HSC ICT](https://hscict.org/)
+- System Co-ordinator: [Sajid Abdullah](https://bd.linkedin.com/in/sajid-abdullah-69aa00221)
+- Courtesy: [eSRD Lab, BUET](https://esrdlab.cse.buet.ac.bd/)
 
 ## Description
 
@@ -34,8 +34,8 @@ This repository houses the code examples, assignments, and notes from the virtua
 - [ENK-12: logical operator](ENK-12.c)
 - [ENK-13: loop statement ](ENK-13.c)
 - [ENK-14: loop statement ](ENK-14.c)
-- [ENK-15: look statement ](ENK-15.c)
-- [ENK-16: look statement](ENk-16.c)
+- [ENK-15: loop statement ](ENK-15.c)
+- [ENK-16: loop statement](ENK-16.c)
 - [ENK-17: array](ENK-17.c)
 - [ENK-18: array](ENK-18.c)
 - [ENK-19: array](ENK-19.c)

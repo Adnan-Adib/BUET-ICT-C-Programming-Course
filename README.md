@@ -22,8 +22,8 @@ This repository houses the code examples, assignments, and notes from the virtua
 
 - [ENK-1: hello world ](ENK-1.c)
 - [ENK-2: data type](ENK-2.c)
-- [ENK-3: data type] (ENK-3.c)
-- [ENK-4: data type] (ENK-4.c)
+- [ENK-3: data type](ENK-3.c)
+- [ENK-4: data type](ENK-4.c)
 - [ENK-5: data type](ENK-5.c) 
 - [ENK-6: input output statement](ENK-6.c) 
 - [ENK-7: input output statement](ENK-7.c)
@@ -31,11 +31,11 @@ This repository houses the code examples, assignments, and notes from the virtua
 - [ENK-9: if statement ](ENK-9.c)
 - [ENK-10: if statement ](ENK-10.c)
 - [ENK-11: logical operator](ENK-11.c)
-- [ENK-12: logical operator] (ENK-12.c)
+- [ENK-12: logical operator](ENK-12.c)
 - [ENK-13: loop statement ](ENK-13.c)
 - [ENK-14: loop statement ](ENK-14.c)
 - [ENK-15: look statement ](ENK-15.c)
-- [ENK-16: look statement] (ENk-16.c)
+- [ENK-16: look statement](ENk-16.c)
 - [ENK-17: array](ENK-17.c)
 - [ENK-18: array](ENK-18.c)
 - [ENK-19: array](ENK-19.c)
@@ -47,7 +47,7 @@ This repository houses the code examples, assignments, and notes from the virtua
 - [ENK-25: function ](ENK-25.c)
 - [ENK-26: function ](ENK-26.c)
 - [ENK-27: function ](ENK-27.c)
-- [ENK-28: function] (ENK-28.c)
+- [ENK-28: function](ENK-28.c)
 
 ## Usage
 
